@@ -1,7 +1,7 @@
 {
-  "name":"Gordon",
-  "twitter":"@docker",
-  "location":"San Francisco, CA, USA",
-  "repo":["example/votingapp_voting-app","example/votingapp_result-app"],
-  "vote":"Cat"
+  "name":"Bruno",
+  "twitter":"@brunomdematos",
+  "location":"Porto, PT",
+  "repo":["brunomatos/votingapp_voting-app","brunomatos/votingapp_result-app"],
+  "vote":"Python"
 }
