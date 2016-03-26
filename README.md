@@ -69,4 +69,3 @@ At the training, you will need to bring your own computer. Before you go to a bi
    ```
 And now you're ready. See you at the birthday party!
 
-
